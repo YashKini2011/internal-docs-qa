@@ -1,0 +1,17 @@
+# venv
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# data
+notion_chroma/
+gdocs_chroma/
+*.db
+
+# env + creds
+.env
+*.json
